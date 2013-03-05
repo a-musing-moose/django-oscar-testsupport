@@ -20,4 +20,5 @@ setup(
         'WebTest>=1.3,<2.1',
         'django-webtest>=1.5.7,<1.6',
         'purl>=0.4,<0.5',
+        'mock==1.0.1'
     ])
